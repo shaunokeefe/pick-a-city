@@ -4,6 +4,10 @@ Using this EmberJS repo, build a simple app for selecting a city and displaying 
 
 If this is your first time working with EmberJS, it's recommended you read [the excellent Ember Guides](https://guides.emberjs.com/v2.12.0/getting-started/quick-start/). This will walk you through setting up Ember CLI, and the different concepts in Ember (such as components, models, routes, etc).
 
+#### Submitting the Challenge
+
+Fork this repo, and build your own solution. Feel free to commit as you go and, when you're finished, open up a PR from your fork.
+
 #### Feature Spec
 
 - the app loads an index page which allows the user to select 1 of 3 cities - Melbourne, Sydney, or Gold Coast
