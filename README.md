@@ -2,7 +2,7 @@
 
 Using this EmberJS repo, build a simple app for selecting a city and displaying a map.
 
-If this is your time working with EmberJS, it's recommended you read [the excellent Ember Guides](https://guides.emberjs.com/v2.12.0/getting-started/quick-start/). This will walk you through setting up Ember CLI, and the different concepts in Ember (such as components, models, routes, etc).
+If this is your first time working with EmberJS, it's recommended you read [the excellent Ember Guides](https://guides.emberjs.com/v2.12.0/getting-started/quick-start/). This will walk you through setting up Ember CLI, and the different concepts in Ember (such as components, models, routes, etc).
 
 #### Feature Spec
 
