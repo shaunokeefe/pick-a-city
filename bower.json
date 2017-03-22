@@ -1,0 +1,6 @@
+{
+  "name": "pick-a-city",
+  "dependencies": {
+    "blob-polyfill": "^1.0.20150320"
+  }
+}

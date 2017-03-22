@@ -1,0 +1,5 @@
+{{#each cities as |city|}}
+  <button class="city-picker-button" {{action "selectCity" city.id}}>{{city.name}}</button>
+{{/each}}
+
+{{yield}}
